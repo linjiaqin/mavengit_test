@@ -1,2 +1,0 @@
-# mavengit_test
-这只是我用来测试github和git与eclipse的使用的仓库demo
